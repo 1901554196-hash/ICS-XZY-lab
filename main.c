@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("This is feature branch modification!\n");
+    printf("feature branch\n");
 
 }
