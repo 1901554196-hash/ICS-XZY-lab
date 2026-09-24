@@ -2,5 +2,6 @@
 
 int main()
 {
-    printf("main branch\n");
+    printf("conflict resolved\n");
+
 }
